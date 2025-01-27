@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HTMLandCSS.iml" filepath="$PROJECT_DIR$/HTMLandCSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HTML_CSS_basics.iml" filepath="$PROJECT_DIR$/.idea/HTML_CSS_basics.iml" />
     </modules>
   </component>
 </project>
